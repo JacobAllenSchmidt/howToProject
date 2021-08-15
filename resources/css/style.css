@@ -1,3 +1,21 @@
-* {
-    background-color: red;
+body {
+    background-color: #aaaaaa;
+    text-align: center;
+}
+ul {
+    list-style: none;
+    padding: 10px;
+}
+h1, h2 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+p, li {
+    font-family: 'Ubuntu', sans-serif;
+}
+#img-description {
+    color: rgba(0, 0, 0, 0.7)
+}
+ol {
+    text-align: left;
+    padding-left: 40%;
 }
